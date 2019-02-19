@@ -6,7 +6,7 @@
 		"crc": "3.8.0",
 		"pomelo-loader": "0.0.7",
 		"stream-pkg": "0.0.5",
-		"pomelo-logger": "0.1.7",
+		"pomelo-logger": "git://github.com/silverera/pomelo-logger.git#v0.1.8",
 		"node-uuid": "1.4.8",
 		"async": "2.6.2",
 		"bearcat-buffer": "0.1.x"
