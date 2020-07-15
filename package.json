@@ -1,6 +1,6 @@
 {
 	"name": "pomelo-rpc",
-	"version": "1.0.8",
+	"version": "1.0.9",
 	"dependencies": {
 		"mqtt-connection": "4.0.0",
 		"crc": "3.8.0",
@@ -8,7 +8,7 @@
 		"stream-pkg": "0.0.5",
 		"pomelo-logger": "git://github.com/silverera/pomelo-logger.git#v0.1.8",
 		"node-uuid": "1.4.8",
-		"async": "2.6.2",
+		"async": "3.2.0",
 		"bearcat-buffer": "0.1.x"
 	},
 	"devDependencies": {
